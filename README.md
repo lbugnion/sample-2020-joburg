@@ -1,4 +1,4 @@
-# Global AI Nights 2019 in Amsterdam, Netherlands
+# MS Developer User Group, Johannesburg, South Africa
 
 My code samples for the MS Developer User Group in Johannesburg, South Africa.
 
